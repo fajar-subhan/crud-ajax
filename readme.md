@@ -9,6 +9,7 @@ mempercepat sebuah proses pengolahan data tersebut dengan ajax yang bisa kalian 
 3. Web Server : [Apache](https://httpd.apache.org) atau [Nginx](https://www.nginx.com)
 4. [Bootstrap](https://getbootstrap.com)
 5. [Database Server](https://www.mysql.com)
+6. [Jquery](https://jquery.com)
 
 ## Installasi
 
